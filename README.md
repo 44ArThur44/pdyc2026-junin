@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< Arthur V.
 # Event & Artist Management API (Spring Boot + Keycloak OAuth2)
 
 ## 1. PROJECT OVERVIEW
