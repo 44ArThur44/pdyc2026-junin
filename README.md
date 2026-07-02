@@ -1,6 +1,6 @@
 # Event & Artist Management API (Spring Boot + Keycloak OAuth2)
 
-## Grupo: Arthur T. V. — Rodrigo Ruiz Benavides
+## Grupo: Arthur V. — Rodrigo Ruiz Benavides
 
 ## 1. PROJECT OVERVIEW
 Event and Artist management backend secured with Keycloak OAuth2 (JWT). All endpoints require authentication.
